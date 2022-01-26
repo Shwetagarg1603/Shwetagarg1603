@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new and latest things.
 - 🌱 I’m currently learning basic coding from Shecodes
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 📫 reach me on- shwetagarg1603@gmail.com
 
 <!---
 Shwetagarg1603/Shwetagarg1603 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
